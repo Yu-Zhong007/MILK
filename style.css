@@ -2453,7 +2453,7 @@ textarea.w-select {
 }
 
 body {
-    background-color: #c95b08;
+    background-color: #ff6d00;
     font-family: "GangofThree", sans-serif;
     color: #fff;
     font-size: 24px;
@@ -3544,18 +3544,18 @@ a {
     background-image: -webkit-gradient(linear,
             left top,
             left bottom,
-            from(#c95b08),
+            from(#ff6d00),
             color-stop(14%, rgba(0, 5, 32, 0)),
             color-stop(88%, rgba(0, 5, 32, 0)),
-            to(#c95b08)),
+            to(#ff6d00)),
         radial-gradient(circle farthest-side at 50% 50%,
             rgba(1, 253, 248, 0.1),
             rgba(1, 253, 248, 0));
     background-image: linear-gradient(180deg,
-            #c95b08,
+            #ff6d00,
             rgba(0, 5, 32, 0) 14%,
             rgba(0, 5, 32, 0) 88%,
-            #c95b08),
+            #ff6d00),
         radial-gradient(circle farthest-side at 50% 50%,
             rgba(1, 253, 248, 0.1),
             rgba(1, 253, 248, 0));
@@ -4014,7 +4014,7 @@ a {
 
 .sidebar-icon:hover {
     border-color: #02f4ff;
-    background-color: #c95b08;
+    background-color: #ff6d00;
 }
 
 .xxl-heading {
@@ -4587,7 +4587,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
     border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-    background-color: #c95b08;
+    background-color: #ff6d00;
     -webkit-transform: translate3d(0px, 0px, 1000px);
     transform: translate3d(0px, 0px, 1000px);
     -webkit-transform-style: preserve-3d;
@@ -4696,7 +4696,7 @@ a {
     height: 80px;
     border-right: 1px solid rgba(192, 192, 211, 0.2);
     border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-    background-color: #c95b08;
+    background-color: #ff6d00;
     -webkit-transform: translate3d(0px, 0px, 1111px);
     transform: translate3d(0px, 0px, 1111px);
     -webkit-transform-style: preserve-3d;
@@ -4821,7 +4821,7 @@ a {
     height: 100%;
     max-height: 42px;
     border-radius: 5px;
-    background-image: linear-gradient(135deg, #987e6e 27%, #c95b08 86%, #c95b08 92%, #987e6e 96%, #987e6e);
+    background-image: linear-gradient(135deg, #987e6e 27%, #ff6d00 86%, #ff6d00 92%, #987e6e 96%, #987e6e);
 }
 
 .spinning-image {
@@ -5142,8 +5142,8 @@ a {
             left top,
             left bottom,
             from(#000),
-            color-stop(61%, #c95b08));
-    background-image: linear-gradient(180deg, #000, #c95b08 61%);
+            color-stop(61%, #ff6d00));
+    background-image: linear-gradient(180deg, #000, #ff6d00 61%);
 }
 
 .road-end {
@@ -5171,8 +5171,8 @@ a {
             left top,
             left bottom,
             from(rgba(0, 5, 32, 0)),
-            color-stop(97%, #c95b08));
-    background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), #c95b08 97%);
+            color-stop(97%, #ff6d00));
+    background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), #ff6d00 97%);
 }
 
 .road-title {
@@ -5960,7 +5960,7 @@ a {
 .outline-button.white-fill {
     grid-column-gap: 20px;
     background-color: #fff;
-    color: #c95b08;
+    color: #ff6d00;
 }
 
 .simple-title {
@@ -6017,7 +6017,7 @@ a {
     border-color: rgba(0, 0, 0, 0.38);
     border-radius: 30px;
     background-color: #fff;
-    color: #c95b08;
+    color: #ff6d00;
 }
 
 .form-text-field-2:focus {
@@ -6077,7 +6077,7 @@ a {
     -webkit-transition: background-color 400ms ease, opacity 400ms ease,
         color 400ms ease;
     transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
-    color: #c95b08;
+    color: #ff6d00;
     font-size: 20px;
     font-weight: 700;
     text-decoration: none;
@@ -7337,7 +7337,7 @@ a {
         -ms-flex-align: center;
         align-items: center;
         grid-column-gap: 10px;
-        background-color: #c95b08;
+        background-color: #ff6d00;
     }
 
     .right-nav {
@@ -7384,7 +7384,7 @@ a {
     }
 
     .link-cover-2 {
-        background-color: #c95b08;
+        background-color: #ff6d00;
     }
 
     .left-nav-2 {
@@ -7408,7 +7408,7 @@ a {
         grid-row-gap: 0px;
         -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
-        background-color: #c95b08;
+        background-color: #ff6d00;
     }
 
     .menu-button-2 {
@@ -7561,7 +7561,7 @@ a {
         -ms-flex-align: center;
         align-items: center;
         grid-column-gap: 10px;
-        background-color: #c95b08;
+        background-color: #ff6d00;
     }
 
     .token-percent {
@@ -8346,7 +8346,7 @@ a {
         width: 100vw;
         margin-right: 0px;
         padding-top: 0px;
-        background-color: #c95b08;
+        background-color: #ff6d00;
     }
 
     .navigation-content-2 {
@@ -8485,7 +8485,7 @@ a {
     }
 
     .link-cover-2 {
-        background-color: #c95b08;
+        background-color: #ff6d00;
     }
 
     .left-nav-2 {
@@ -8507,7 +8507,7 @@ a {
     }
 
     .nav-menu-links-2 {
-        background-color: #c95b08;
+        background-color: #ff6d00;
     }
 
     .menu-button-2 {
